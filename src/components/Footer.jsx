@@ -75,7 +75,7 @@ const Footer = () => {
       <div className=" bg-[#e2dcd3] py-5 text-center text-base">
         <p>
           &copy; <a
-            href="https://codepen.io/leonam-silva-de-souza"
+    
             className="hover:text-[#BC9667] font-[Turret_Road] text-[var(--text-color)] transition-all duration-400 ease-linear"
             target="_blank"
             rel="noreferrer"
